@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+Task_1_MNIST/data/
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db

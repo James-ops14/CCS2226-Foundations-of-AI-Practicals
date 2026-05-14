@@ -1,0 +1,16 @@
+% Load file in SWI-Prolog:
+% ?- [family_tree].
+
+father(john, mary).
+mother(susan, peter).
+grandparent(john, ann).
+grandmother(susan, jane).
+child(ann, mary).
+grandchild(grace, mary).
+sibling(mary, peter).
+brother(peter, mary).
+sister(mary, peter).
+uncle(peter, ann).
+aunt(mary, jane).
+cousin(ann, jane).
+cousin(grace, rita).
